@@ -1,9 +1,11 @@
-* {
+/* box-sizing style  */
+{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+}
 
-/* }body background colour */
+/* body background colour */
 body {
     background-color: #d9dcd6;
 }
@@ -36,12 +38,12 @@ header nav {
     font-size: 20px;
 }
 
-/* unordered list type style */
+/* head navc unordered list-style-type*/
 header nav ul {
     list-style-type: none;
 }
 
-
+/* header nav unordered list style */
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
